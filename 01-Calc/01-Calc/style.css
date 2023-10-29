@@ -21,4 +21,22 @@ html { box-sizing: border-box; }
 	background-color: #ffffcc;
 }
 
+.prvni {
+	/* width: calc(100% / 2); */
+	/* width: calc(50% - 100px); */
+
+}
+
+.kontejner {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+}
+
+.box {
+	/* flex: 1 1 calc(100% / 3); */
+	flex: 0 0 calc((100% - 40px) / 3);
+
+}
+
 /* ---------------------------------------------------- */

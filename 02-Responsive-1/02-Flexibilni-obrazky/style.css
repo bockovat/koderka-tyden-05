@@ -39,5 +39,16 @@ h1 {
 	background-color: white;
 }
 
+.obrazek {
+	width: 100%;
+	/* max-width: 100%; *cvfdv/
+
+	/* maximalni sirka je 100% obrazku, pak uz se obrazek nezvetsuje se zarizenim, nebot by byl rozmazany */
+}
+
+.ilustrace {
+
+}
+
 /* ---------------------------------------------------------- */
 
